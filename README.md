@@ -1,4 +1,2 @@
 # php
-### ### study git
-梁帅
-### hello world
+### 河南省PHP
